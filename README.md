@@ -25,3 +25,12 @@
 >  Esse eu achei que seria bem divertido e simples e no final não foi tão simples quanto eu esperava. A parte de criar o bloco e fazer pontos era a parte simples, o problema foi para fazer a cobra aumentar de tamanho. Segui a ideia e não o código do Shiffman no início e consegui aumentar a cobra, o problema é que ela aumentava completamente e virava um único bloco gigante e a velocidade estava escalonando pelo tamanho da cobra.
 >  Depois de muito bater cabeça eu percebi que já estava fazendo isso a mais tempo do que deveria. a parte de criação de uma nova parte do corpo da cobra foi difícil fazer funcionar acabei copiando o código do Shiffman tanto do crescimento como da parte de morrer ao tocar no próprio corpo. Ainda falta um polimento nas funcionalidades mas não é necessário ir tão longe também, o objetivo e tentar fazer em uma tarde/noite cada um desses desafios.
 >  Achei mais difícil do que eu esperava e tive boas ideias nesse desafio, uma boa parte eu consegui fazer por conta própria.
+>
+>
+>004. Purple Rain
+>
+> Hoje foi simples, apenas uma chuva, só que roxa. Nem vi o código do Shiffman, olhei só o final do vídeo para ter uma ideia. Ele fez com a geração sendo em um campo 3d tendo eixo z e dando sensação de profundidade, até pensei em fazer isso mas acabou que eu só implementei uma opacidade diferente para cada uma gota, o que também da uma sensação de profundidade.
+> Sem muito o que falar, por hoje terminei cedo, ainda são 16h e não 23h como nos outros dias.
+>
+>
+>005. Next
