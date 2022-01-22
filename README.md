@@ -37,3 +37,6 @@
 >
 >  Estou gostando bastante do resultado não sei nem como está o código do Shiffman, mais uma vez fiz tudo de cabeça do meio jeito. Não tive muita dificuldade em nenhuma parte, as coisas que mais me travaram eram variáveis sendo utilizadas em momentos errados. 
 >  Bem, mais um dia concluído amanhã é sábado, provalmente só voltarei segunda. Ainda tenho 1 semana até o início do período da faculdade, espero conseguir seguir a semana que vem com os 5 desafios feitos/concluídos.
+>
+>
+>006. Next
