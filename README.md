@@ -29,8 +29,11 @@
 >
 >004. Purple Rain
 >
-> Hoje foi simples, apenas uma chuva, só que roxa. Nem vi o código do Shiffman, olhei só o final do vídeo para ter uma ideia. Ele fez com a geração sendo em um campo 3d tendo eixo z e dando sensação de profundidade, até pensei em fazer isso mas acabou que eu só implementei uma opacidade diferente para cada uma gota, o que também da uma sensação de profundidade.
+>  Hoje foi simples, apenas uma chuva, só que roxa. Nem vi o código do Shiffman, olhei só o final do vídeo para ter uma ideia. Ele fez com a geração sendo em um campo 3d tendo eixo z e dando sensação de profundidade, até pensei em fazer isso mas acabou que eu só implementei uma opacidade diferente para cada uma gota, o que também da uma sensação de profundidade.
 > Sem muito o que falar, por hoje terminei cedo, ainda são 16h e não 23h como nos outros dias.
 >
 >
 >005. Space Invaders
+>
+>  Estou gostando bastante do resultado não sei nem como está o código do Shiffman, mais uma vez fiz tudo de cabeça do meio jeito. Não tive muita dificuldade em nenhuma parte, as coisas que mais me travaram eram variáveis sendo utilizadas em momentos errados. 
+>  Bem, mais um dia concluído amanhã é sábado, provalmente só voltarei segunda. Ainda tenho 1 semana até o início do período da faculdade, espero conseguir seguir a semana que vem com os 5 desafios feitos/concluídos.

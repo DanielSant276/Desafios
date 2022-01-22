@@ -8,7 +8,7 @@ let bullet;
 
 let invaderStartX = 50;
 let invaderStartY = 100;
-let invaderSize = 50;
+let invaderSize = 40;
 let invaderMovement = 1;
 let invaderArr = [];
 let invader;
@@ -31,7 +31,7 @@ function draw() {
     bulletArr[i].show();
     bulletArr[i].update();
     if (bulletArr[i].delete()) {
-      bulletArr.splice(i, 1);
+      deleteBullet(i);
     }
   }
 
@@ -40,8 +40,16 @@ function draw() {
     invaderArr[i].update();
 
     if ((invaderArr[i].x + invaderArr[i].speedX < 5) || (invaderArr[i].x + invaderArr[i].speedX + invaderArr[i].size > width - 5)) {
-      for (j = 0; i < invaderArr.length; j++) {
-        invaderArr[j].direction = -1;
+      for (j = 0; j < invaderArr.length; j++) {
+        invaderArr[j].direction *= -1;
+        invaderArr[j].nextRow();
+      }
+    }
+
+    for (j = 0; j < bulletArr.length; j++) {
+      if ((bulletArr[j].x > invaderArr[i].x) && (bulletArr[j].x < invaderArr[i].x + invaderArr[i].size) && (bulletArr[j].y < invaderArr[i].y + invaderArr[i].size) && (bulletArr[j].y > invaderArr[i].y)) {
+        deleteBullet(j);
+        invaderArr[i].deleteInvader();
       }
     }
   }
@@ -50,6 +58,10 @@ function draw() {
   ship.update();
 
   invader.show();
+}
+
+function deleteBullet(i) {
+  bulletArr.splice(i, 1);
 }
 
 function keyReleased() {
