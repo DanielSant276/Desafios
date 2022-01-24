@@ -35,8 +35,12 @@
 >
 >005. Space Invaders
 >
->  Estou gostando bastante do resultado não sei nem como está o código do Shiffman, mais uma vez fiz tudo de cabeça do meio jeito. Não tive muita dificuldade em nenhuma parte, as coisas que mais me travaram eram variáveis sendo utilizadas em momentos errados. 
+>  Estou gostando bastante do resultado não sei nem como está o código do Shiffman, mais uma vez fiz tudo de cabeça do meio jeito. Não tive muita dificuldade em nenhuma parte, as coisas que mais me travaram eram variáveis sendo utilizadas em momentos errados. O único bug que eu não consegui resolver é que o jogo quebrava quando acertava o invader mais a esquerda, possívelmente algum problema com o tamanho da array, porém, não tive sucesso ao tentar resolver, necessitando usar gambiarra. O que fiz foi simplesmente teleportar os blocos para uma área não visível quando acertados e zerar a velocidade X deles, fazendo com que eles não pudessem ser vistos/acertados. O objetivo principal é terminar o desafio em um dia.
 >  Bem, mais um dia concluído amanhã é sábado, provalmente só voltarei segunda. Ainda tenho 1 semana até o início do período da faculdade, espero conseguir seguir a semana que vem com os 5 desafios feitos/concluídos.
 >
 >
->006. Next
+>006. Mitosis Simulation
+>
+> Hoje foi simples também, algo rápido para terminar o dia. Mais uma vez vi apenas o vídeo final e criei o meu. Na proposta do Shiffman ele duplicava as células com o clique em cima da célula desejada. Eu achei mais interessante ver elas se multiplicando com o passar do tempo e fiz uma função de clique que divide todas instantaneamente. Por hoje foi, sigo nos desafios.
+>
+>007. Next
