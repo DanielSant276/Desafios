@@ -1,9 +1,13 @@
-function xxxxx() {
-  this.update = function () {
+class xxxx {
+  constructor() {
+    
+  }
+
+  update() {
 
   }
 
-  this.show = function () {
+  show() {
 
   }
 }
